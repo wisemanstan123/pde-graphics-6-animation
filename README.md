@@ -12,6 +12,7 @@ You will need to use an [if-statement](https://processing.org/reference/if.html)
 Review the [draw()](https://processing.org/reference/draw_.html) function to refresh your memory on how to animate in processing.
 
 The basic steps are as follows:
+
 1. Set delta to -1
 2. Draw a circle with a radius of 50px in the middle of the canvas
 3. Using an if-statement check if the edge of the circle is touching the left edge of the canvas, i.e. is x - radius = 0, if it is change the delta to +1 (switches direction from going left to going right)
