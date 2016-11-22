@@ -19,5 +19,8 @@ The basic steps are as follows:
 4. Using another if-statement check if the edge of the circle is touching the right edge of the canvas, i.e. is x + radius = width of canvas, if it is change the delta to -1 (switches direction from going right to going left)
 5. Add delta to the x coordinate 
 
+![Sketch](sketch.jpg "Skecth")
+
+
 ## Turn in your assignment
 [Submitt your assignment for marking here](https://docs.google.com/a/epsb.ca/forms/d/e/1FAIpQLSdnnOUlwawWq9wmrKJZH40JlfNuSE8QaFGsJ_6OlzZle7m3MA/viewform)
