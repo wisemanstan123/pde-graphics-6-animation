@@ -1,4 +1,4 @@
-# CSE1120-assignment-6
+# CSE1120 Assignment 6: Simple Animation
 Create a Processing program that does the following animation (click on picture to see a video of the animation). 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NV7CwSptfpw
