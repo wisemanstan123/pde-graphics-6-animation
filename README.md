@@ -21,6 +21,8 @@ The basic steps are as follows:
 
 ![Sketch](sketch.jpg "Skecth")
 
-
-## Turn in your assignment
-[Submitt your assignment for marking here](https://docs.google.com/a/epsb.ca/forms/d/e/1FAIpQLSdnnOUlwawWq9wmrKJZH40JlfNuSE8QaFGsJ_6OlzZle7m3MA/viewform)
+## Bonus Challenge
+Modify your code to include one, several or all of the following features:
+- Having the circle slowly changing its background color as it is moving across the screen
+- Including a second circle moving vertically across the canvas and bouncing off the bottom and top of the canvas.
+- Having a "special effect" when the vertically and horizontyally moving circles collide, e.g. an "explosion", the circles bounce off each other, etc.
