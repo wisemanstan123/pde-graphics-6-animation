@@ -1,4 +1,7 @@
-# CSE1120 Assignment 6: Simple Animation
+# processing-graphics-assignment-6-simple-animation
+
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 Create a Processing program that does the following animation (click on picture to see a video of the animation). 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NV7CwSptfpw
