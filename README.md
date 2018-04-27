@@ -2,11 +2,9 @@
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
-Create a Processing program that does the following animation (click on picture to see a video of the animation). 
+Create a Processing program that does the following animation. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NV7CwSptfpw
-" target="_blank"><img src="http://img.youtube.com/vi/NV7CwSptfpw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="360" /></a>
+![Animation](images/animation.gif)
 
 You are only changing the x coordinate of the circle in the animation. For each new frame you can calculate the new x coordinate like this ```x = x + delta``` where ```delta``` is a positive number if the circle is moving to the right and a negative number if it is moving to the left. 
 
@@ -22,7 +20,7 @@ The basic steps are as follows:
 4. Using another if-statement check if the edge of the circle is touching the right edge of the canvas, i.e. is x + radius = width of canvas, if it is change the delta to -1 (switches direction from going right to going left)
 5. Add delta to the x coordinate 
 
-![Sketch](sketch.jpg "Skecth")
+![Sketch](images/sketch.jpg)
 
 ## Bonus Challenge
 Modify your code to include one, several or all of the following features:
