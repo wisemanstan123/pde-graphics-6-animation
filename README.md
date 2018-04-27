@@ -1,4 +1,4 @@
-# processing-graphics-assignment-6-simple-animation
+# processing-graphics-6-simple-animation
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
