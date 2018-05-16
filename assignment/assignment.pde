@@ -11,16 +11,21 @@ int delta = -1;
 void setup() {
 //background setup
   size(700, 500); 
-  background(100, 10, 100); 
+  background(255); 
 }
 
 void draw() {
-//background color
-  background(100, 10, 100);
-//ellipse setup
+
+     //ellipse setup
   ellipseMode(CENTER);
-//ellipse
-  ellipse(x, y, 50, 50);
+       background(255);
+//creating randome rgb values
+  int r = int(random(256));
+  int g = int(random(256));
+  int b = int(random(256));
+  noStroke();
+  fill( r, g, b);
+    ellipse(x,y,50, 50);
 //creating x + delta variable
   x = x + delta;
 //movement to the left
